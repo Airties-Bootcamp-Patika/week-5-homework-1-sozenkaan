@@ -1,4 +1,4 @@
-# week-4-homework-1
+# week-5-homework-1
 
 Aşağıdaki adımlar için ekran resimleri ekleyiniz.
 * AWS Console hesabı oluşturma
